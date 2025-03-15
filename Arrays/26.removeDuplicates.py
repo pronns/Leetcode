@@ -35,4 +35,4 @@ def removeDuplicates(nums):
 
 removeDuplicates(nums)
 
-##Strategy : 2 pointers : curr number and place where replacements should occur
+##Strategy : 2 pointers : curr number and place where replacements should occur, check i with i-1,assign and increment j if not same
